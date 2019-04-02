@@ -1,3 +1,5 @@
+[https://github.com/komiyamma/labs/tree/master/migrating_legacy_token_managed](https://github.com/komiyamma/labs/tree/master/migrating_legacy_token_managed)
+
 # ZeppelinOS Labs
 
 ## Description
