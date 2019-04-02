@@ -1,3 +1,5 @@
+# 既存のトークンからアップデートする際に、すでに存在する所持比率をそのまま受け継いてトークンを発行するためのもの。
+
 # Migrating legacy (non-upgradeable) token to upgradeability with managed strategy
 
 This idea builds on _upgradeability using unstructured storage_, and shows how one would migrate an existing non-upgradeable token into zOS for upgradeability support. This approach uses the managed strategy. For an alternative approach, see the `migrating_legacy_token_opt_in/` folder.
