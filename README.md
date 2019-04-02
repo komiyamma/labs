@@ -1,4 +1,3 @@
-# 既存のトークンからアップデートする際に、すでに存在する所持比率をそのまま受け継いてトークンを発行するためのもの。
 [https://github.com/komiyamma/labs/tree/master/migrating_legacy_token_managed](https://github.com/komiyamma/labs/tree/master/migrating_legacy_token_managed)
 
 
